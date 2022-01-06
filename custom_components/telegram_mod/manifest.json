@@ -1,0 +1,6 @@
+{
+  "domain": "telegram",
+  "name": "telegram",
+  "dependencies": ["http"],
+  "version": "3.0.1"
+}
