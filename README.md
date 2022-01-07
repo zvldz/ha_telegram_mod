@@ -23,7 +23,8 @@ Add repository url. Category - Integration. Read more on https://hacs.xyz/docs/f
   data:
     message: "message"
     title: "title"
-    message_tag: "message_tag"
-    disable_notification: True
-    parse_mode: html
+    data:
+      message_tag: "message_tag"
+      disable_notification: True
+      parse_mode: html
 ```
