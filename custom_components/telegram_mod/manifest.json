@@ -2,5 +2,6 @@
   "domain": "telegram",
   "name": "telegram_mod",
   "dependencies": ["http"],
+  "codeowners": ["@zvldz"],
   "version": "3.0.2"
 }
